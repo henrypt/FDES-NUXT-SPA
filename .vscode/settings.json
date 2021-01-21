@@ -1,0 +1,13 @@
+{
+  "search.collapseResults": "auto",
+  "files.exclude": {
+    "**/.DS_Store": false,
+    "**/CVS": false
+  },
+  "search.exclude": {
+    "**/node_modules": false
+  },
+  "files.watcherExclude": {
+    "**/node_modules/**": false
+  }
+}
